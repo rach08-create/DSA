@@ -1,1 +1,1 @@
-# DSA
+# This repository contains all the code and problems I have solved for mastering DSA.
